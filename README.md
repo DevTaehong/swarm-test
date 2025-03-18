@@ -13,3 +13,4 @@
 | https://github.com/create-bounty | feature-maker | test | test | 0.00001 | usdc | 0x0114ff225517a3700d8afeb66ab618e374d1a23540f9fceccf0874f102e997d1 |
 | https://github.com/create-bounty | feature-maker | test | test | 0.0001 | usdc | oxoxoxoxoxoxo |
 | https://github.com/create-bounty | feature-maker | eee | eee | 0.0001 | usdc | oxoxoxoxoxoxo |
+| https://github.com/create-bounty | feature-maker | undefined | test1 | 1 | usdc | 0x8886ef2bd3099d5e63920f6a426c800dd64707af3ee1c0d8b6132779c0bfe0b9 |
