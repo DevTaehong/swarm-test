@@ -16,3 +16,4 @@
 | [Test Repo Please](https://github.com/devTaehong/test-repo-please) | Document & Summarize | Test Repo Please | N/A | 25 | usdc | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 |
 | [Test2](https://github.com/devTaehong/test2) | Find Bugs | Test2 | N/A | 127 | usdc | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 |
 | [Standup Meeting Test](https://github.com/devTaehong/standup-meeting-test) | Find Bugs | Standup Meeting Test | N/A | 20000 | usdc | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 |
+| [Standup Meeting Test](https://github.com/devTaehong/standup-meeting-test) | Find Bugs | Standup Meeting Test | N/A | 20000 | usdc | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 |
