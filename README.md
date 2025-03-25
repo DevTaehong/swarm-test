@@ -13,3 +13,4 @@
 | [Come On](https://github.com/devTaehong/come-on) | Find Bugs | Come On | N/A | 25 | usdc | 0x432c747444e2e60366b82abc18e52296f8202c8294ce02eb89110468fd1b54cb |
 | [Preview Test](https://github.com/devTaehong/preview-test) | Find Bugs | Preview Test | N/A | 0.00011 | usdc | 0x2167bfb771977e887c13bade98de392248203713acf157c4ab2d8d923c5a1813 |
 | [Friday Test](https://github.com/devTaehong/friday-test) | Document & Summarize | Friday Test | N/A | 0.000001 | usdc | 0x7c174c71d4f87925dfb7ec702d53b3482082d68c53440777303e932db0d329ac |
+| [Test Repo Please](https://github.com/devTaehong/test-repo-please) | Document & Summarize | Test Repo Please | N/A | 25 | usdc | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 |
