@@ -19,3 +19,4 @@
 | [Standup Meeting Test](https://github.com/devTaehong/standup-meeting-test) | Find Bugs | Standup Meeting Test | N/A | 20000 | usdc | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 |
 | [Swarm Testtestest](https://github.com/devTaehong/swarm-testtestest) | Document & Summarize | Swarm Testtestest | N/A | 25000 | usdc | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 |
 | [Test Process](https://github.com/devTaehong/test-process) | Document & Summarize | Test Process | N/A | 0.0001 | usdc | 0x043e7e8f3da3d7e54c1ab3f19f0e2c09fedb222b849beadc82ead0f1803600c0 |
+| [Status Test](https://github.com/devTaehong/status-test) | Document & Summarize | Status Test | N/A | 0.00001 | usdc | 0x98cf923564d601e3bd73015759639d1addfe2ea6e7d74de04214b1d53b0a472d | Bots are working |
