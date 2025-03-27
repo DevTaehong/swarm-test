@@ -1,6 +1,6 @@
 # Prometheus Swarm Bounties
-| GitHub URL | Bounty Task | Project Name | Description | Bounty Amount | Bounty Type | Transaction Hash | Stauts |
-|------------|------------|--------------|-------------|---------------|-------------|------------------|
+| GitHub URL | Bounty Task | Project Name | Description | Bounty Amount | Bounty Type | Transaction Hash | Status |
+|------------|------------|--------------|-------------|---------------|-------------|------------------|------------------|
 | https://github.com/create-bounty | feature-maker | test12 | test2 | 1 | usdc | 0x8886ef2bd3099d5e63920f6a426c800dd64707af3ee1c0d8b6132779c0bfe0b9 |
 | https://github.com/create-bounty | feature-maker | test13 | test23 | 1 | usdc | 0x8886ef2bd3099d5e63920f6a426c800dd64707af3ee1c0d8b6132779c0bfe0b9 |
 | https://github.com/create-bounty/test | feature-maker | test markdown | test markdown | 0.001 | usdc | 0xb4fa01545a9f05ccbab9876f6502d9a14157063d58a4055d60e49211d01466fc |
