@@ -28,3 +28,4 @@
 | [Koii Test](https://github.com/devTaehong/koii-test) | Document & Summarize | Koii Test | N/A | 0.0001 | koii | rxk83fh52yrghmpbbrb6udp1qdwjuczyef3rhgbcrpfu5ugkcponyfufmvvaujwmmvc2hicjxiyzxuhqifyuvxl | In Progress |
 | [Koii Test 2](https://github.com/devTaehong/koii-test-2) | Document & Summarize | Koii Test 2 | N/A | 0.0001 | koii | 5DVQjKBBGhxCS5p21v67JPSEXVQHfqQcsRcq7kmo8KKiJv2SstB4gjEqUJGUMKCXcCAKXaByg8fxg1YGDHtPpdiJ | In Progress |
 | [Koii Test 3](https://github.com/devTaehong/koii-test-3) | Document & Summarize | Koii Test 3 | N/A | 0.0001 | koii | 2knc2FqR2GND1pvex1iciP2tr2bRSNFemnitcZdwofZUajoJYNH5kJSFBtMydMTmx2pBMXnU2PA4DLnBTCFf4gvj | In Progress |
+| [Usdc Test](https://github.com/devTaehong/usdc-test) | Document & Summarize | Usdc Test | N/A | 0.0001 | usdc | 0xd33acfae10f2f2a01e407c1b370d581bc4fecc04dcc20b74cc0134f7b12c1189 | In Progress |
