@@ -40,3 +40,4 @@
 | [WKOII Test](https://github.com/devTaehong/wKOII-test) | Document & Summarize | WKOII Test | N/A | 0.0001 | wKOII | 0x263338ed9c8a0cb5c9a677ac82425deaed266a96fe1d5125fd1c17ce838cee29 | In Progress |
 | [Github Test](https://github.com/devTaehong/github-test) | Document & Summarize | Github Test | N/A | 0.0001 | USDC | 0x1234567890abcdef | In Progress |
 | [Test Successful Page](https://github.com/devTaehong/test-successful-page) | Document & Summarize | Test Successful Page | N/A | 0.0001 | USDC | test | In Progress |
+| [Test](https://github.com/devTaehong/test) | Document & Summarize | Test | N/A | 0.0005 | USDC | 0x123 | In Progress |
