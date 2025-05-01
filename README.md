@@ -44,3 +44,4 @@
 | [Credit Test](https://github.com/devTaehong/credit-test) | Document & Summarize | Credit Test | N/A | 2 | CREDITS | N/A | In Progress |
 | [Credit Test](https://github.com/devTaehong/credit-test) | Document & Summarize | Credit Test | N/A | 1 | CREDITS | N/A | In Progress |
 | [Credit Test](https://github.com/devTaehong/credit-test) | Document & Summarize | Credit Test | N/A | 1 | CREDITS | N/A | In Progress |
+| [Test Credit](https://github.com/devTaehong/test-credit) | Document & Summarize | Test Credit | N/A | 25 | CREDITS | N/A | In Progress |
