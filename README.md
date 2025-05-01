@@ -42,3 +42,4 @@
 | [Test Successful Page](https://github.com/devTaehong/test-successful-page) | Document & Summarize | Test Successful Page | N/A | 0.0001 | USDC | test | In Progress |
 | [Test](https://github.com/devTaehong/test) | Document & Summarize | Test | N/A | 0.0005 | USDC | 0x123 | In Progress |
 | [Credit Test](https://github.com/devTaehong/credit-test) | Document & Summarize | Credit Test | N/A | 2 | CREDITS | N/A | In Progress |
+| [Credit Test](https://github.com/devTaehong/credit-test) | Document & Summarize | Credit Test | N/A | 1 | CREDITS | N/A | In Progress |
