@@ -46,3 +46,4 @@
 | [Credit Test](https://github.com/devTaehong/credit-test) | Document & Summarize | Credit Test | N/A | 1 | CREDITS | N/A | In Progress |
 | [Test Credit](https://github.com/devTaehong/test-credit) | Document & Summarize | Test Credit | N/A | 25 | CREDITS | N/A | In Progress |
 | [Test Credit](https://github.com/devTaehong/test-credit) | Document & Summarize | Test Credit | N/A | 25 | CREDITS | N/A | In Progress |
+| [Test Before Lunch2](https://github.com/devTaehong/test-before-lunch2) | Document & Summarize | Test Before Lunch2 | N/A | 0.0001 | USDC | 0xa342878e2ee69363b2b913a463cd50ca9aa74466a322af35af0497d8b010e92b | In Progress |
