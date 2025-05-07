@@ -49,3 +49,4 @@
 | [Test Before Lunch2](https://github.com/devTaehong/test-before-lunch2) | Document & Summarize | Test Before Lunch2 | N/A | 0.0001 | USDC | 0xa342878e2ee69363b2b913a463cd50ca9aa74466a322af35af0497d8b010e92b | In Progress |
 | [Test Koii](https://github.com/devTaehong/test-koii) | Document & Summarize | Test Koii | N/A | 1 | KOII | 4yQig9xdUeyWFXMfqtUg4sgAtFVEzJfeugxUDJDVyp7vLaiBTPt48sVVLHiAVURvA6ktibR5jJWPXG2UXfKPXnuR | In Progress |
 | [Koii Test](https://github.com/devTaehong/koii-test) | Document & Summarize | Koii Test | N/A | 1 | KOII | 52SreLsJLwZzPjZHucgCHttKDSqdXcGiHB39jo9jXByBqd2XM75vyx7PUipyKdgir5jPmXEYqkjP3EHTw4mMBW9M | In Progress |
+| [Swarm Test](https://github.com/devTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 25 | CREDITS | N/A | In Progress |
