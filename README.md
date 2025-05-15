@@ -61,3 +61,4 @@
 | [Swarm Test](https://github.com/devTaehong/swarm-test/) | Find Bugs | Swarm Test | N/A | 1 | CREDITS | N/A | In Progress |
 | [N/A](https://github.com/devTaehong/) | Document & Summarize | N/A | N/A | 1 | CREDITS | N/A | In Progress |
 | [Swarm Test](https://github.com/devTaehong/swarm-test) | Build a Feature | Swarm Test | testset | 1 | CREDITS | N/A | In Progress |
+| [Swarm Test](https://github.com/devTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 25 | CREDITS | N/A | In Progress |
