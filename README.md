@@ -66,3 +66,8 @@
 | [Swarm Test](https://github.com/DevTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 25 | CREDITS | N/A | In Progress |
 | [Swarm Test](https://github.com/devTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 1 | CREDITS | N/A | In Progress |
 | [Swarm Test](https://github.com/devTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 1 | CREDITS | N/A | In Progress |
+| [Koii Balance Tracker](https://github.com/pablopoggiog/koii-balance-tracker) | Feature Builder | Koii Balance Tracker | Extend the application to also support:
+
+- Solana network (currently only Ethereum)
+- testnets (currently only mainnet)
+ | 30 | KOII | 45MRAuMTo37QcyjDxXYapa8Cxt4rRYjzY6PSVtSVvYVdkJPKSzvojTRph7XYuYrgiW7Qpm6hjKUsDpBxCpoWHyD | In Progress |
