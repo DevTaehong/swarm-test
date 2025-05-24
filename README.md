@@ -67,6 +67,22 @@
 | [Swarm Test](https://github.com/devTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 1 | CREDITS | N/A | In Progress |
 | [Swarm Test](https://github.com/devTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 1 | CREDITS | N/A | In Progress |
 | [Koii Balance Tracker](https://github.com/pablopoggiog/koii-balance-tracker) | Feature Builder | Koii Balance Tracker | Extend the application to also support:
+| [Lottery](https://github.com/pablopoggiog/lottery) | Feature Builder | Lottery | Automate lottery kick off with Chainlink automation
+
+Currently, the DApp requires manual intervention to initiate new lotteries, which is both time-consuming and prone to human error. To improve the efficiency and reliability of the lottery process, I propose automating the kick-off of new lotteries using Chainlink automation. We&#039;re already using Chainlink&#039;s VRF for verifiable randomness when choosing a winner.
+
+By leveraging Chainlink&#039;s capabilities, we can create a more reliable and trustless system that will automatically trigger the start of new lotteries based on predefined conditions (e.g., time intervals).
+
+This integration will also address the issue of unclaimed prizes in the current lottery implementation. With the current manual kick-off process, the previous winner loses their chance to claim their prize once a new lottery round is initiated by the owner. This leaves room for potential manipulation or disputes, as the timing of the new round is solely at the owner&#039;s discretion. By automating the process, we will ensure that the initiation of new lottery rounds follows a transparent and predefined schedule, which will be publicly verifiable on the blockchain.
+
+Tasks to be completed:
+
+Research Chainlink&#039;s automation capabilities and identify the most suitable approach for the DApp.
+Design a secure and efficient integration between the Solidity contract and this service from Chainlink&#039;s decentralized oracle network.
+Implement the required smart contract modifications and Chainlink integration code.
+Thoroughly test the implemented solution to ensure it&#039;s working correctly and securely.
+By automating the lottery kick-off process with Chainlink, we aim to enhance the user experience, minimize manual intervention, improve the trustless nature of the DApp (by providing users with greater confidence in the fairness and integrity of the prize-claiming process), and improve the overall efficiency of the DApp. | 25 | KOII | 3jdMHuiYKK8R8fCcc9rUh4PHYYmiRPyUMwwbCP4FbSqTY1pMhbkbst7r7c5XxasgBMFthuZLVjxbem2qfA24Y3Dc | In Progress |
+
 
 - Solana network (currently only Ethereum)
 - testnets (currently only mainnet)
