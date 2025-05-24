@@ -72,6 +72,8 @@
 Design a secure and efficient integration between the Solidity contract and this service from Chainlink&#039;s decentralized oracle network.
 Implement the required smart contract modifications and Chainlink integration code.
 Thoroughly test the implemented solution to ensure it&#039;s working correctly and securely. | 30 | KOII | 3qGdVwyZxG8GToUocpK6uCLz7wpbbbRqXY8WmaVRSLSSmpi6r2qhFUyZePuzCgdbpHLX6MyDhqQ6KBco3xL76tPM | In Progress |
+| [Quiz It Up](https://github.com/pablopoggiog/quiz-it-up) | Feature Builder | Quiz It Up | Improve the styling of the site following Coca-Cola&#039;s style guides | 25 | KOII | C66JjnVoyAM63iNrWUqmzCexuL4q4taoXGzGzQAyV8V5bFTDayMFqRBBksu5xZG6vGdyCoJABcp1AeYws6ph2h4 | In Progress |
+
 
 
 Currently, the DApp requires manual intervention to initiate new lotteries, which is both time-consuming and prone to human error. To improve the efficiency and reliability of the lottery process, I propose automating the kick-off of new lotteries using Chainlink automation. We&#039;re already using Chainlink&#039;s VRF for verifiable randomness when choosing a winner.
