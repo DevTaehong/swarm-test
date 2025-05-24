@@ -73,6 +73,8 @@ Design a secure and efficient integration between the Solidity contract and this
 Implement the required smart contract modifications and Chainlink integration code.
 Thoroughly test the implemented solution to ensure it&#039;s working correctly and securely. | 30 | KOII | 3qGdVwyZxG8GToUocpK6uCLz7wpbbbRqXY8WmaVRSLSSmpi6r2qhFUyZePuzCgdbpHLX6MyDhqQ6KBco3xL76tPM | In Progress |
 | [Quiz It Up](https://github.com/pablopoggiog/quiz-it-up) | Feature Builder | Quiz It Up | Improve the styling of the site following Coca-Cola&#039;s style guides | 25 | KOII | C66JjnVoyAM63iNrWUqmzCexuL4q4taoXGzGzQAyV8V5bFTDayMFqRBBksu5xZG6vGdyCoJABcp1AeYws6ph2h4 | In Progress |
+| [Quiz It Up](https://github.com/pablopoggiog/quiz-it-up) | Feature Builder | Quiz It Up | Implement better responsiveness | 25 | KOII | 8bj8bVY36J3rb9gLwAsU8w5wzHSKMfrXmuzFV2jQCFqFU9qqY9nx46WcVtB1xkK7bNfEQgywZFUNppVUdTTUJv5 | In Progress |
+
 
 
 
