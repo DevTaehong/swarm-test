@@ -68,6 +68,11 @@
 | [Swarm Test](https://github.com/devTaehong/swarm-test) | Document & Summarize | Swarm Test | N/A | 1 | CREDITS | N/A | In Progress |
 | [Koii Balance Tracker](https://github.com/pablopoggiog/koii-balance-tracker) | Feature Builder | Koii Balance Tracker | Extend the application to also support:
 | [Lottery](https://github.com/pablopoggiog/lottery) | Feature Builder | Lottery | Automate lottery kick off with Chainlink automation
+| [Lottery](https://github.com/pablopoggiog/lottery) | Feature Builder | Lottery | Research Chainlink&#039;s automation capabilities and identify the most suitable approach for the DApp.
+Design a secure and efficient integration between the Solidity contract and this service from Chainlink&#039;s decentralized oracle network.
+Implement the required smart contract modifications and Chainlink integration code.
+Thoroughly test the implemented solution to ensure it&#039;s working correctly and securely. | 30 | KOII | 3qGdVwyZxG8GToUocpK6uCLz7wpbbbRqXY8WmaVRSLSSmpi6r2qhFUyZePuzCgdbpHLX6MyDhqQ6KBco3xL76tPM | In Progress |
+
 
 Currently, the DApp requires manual intervention to initiate new lotteries, which is both time-consuming and prone to human error. To improve the efficiency and reliability of the lottery process, I propose automating the kick-off of new lotteries using Chainlink automation. We&#039;re already using Chainlink&#039;s VRF for verifiable randomness when choosing a winner.
 
