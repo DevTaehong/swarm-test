@@ -77,6 +77,8 @@ Thoroughly test the implemented solution to ensure it&#039;s working correctly a
 | [Polygon Name Service](https://github.com/pablopoggiog/polygon-name-service) | Feature Builder | Polygon Name Service | Adapt its functionality to also support the Ethereum network | 20 | KOII | 4za4bVUXWRKFWYsgkwkVZEs9uiE7pvaa1RrtTuEBhTVpGeJc7VYEDoYb4odSVvgNUGZTXfgM5kz2cL344nGipAb4 | In Progress |
 | [Integration Test Project](https://github.com/test/sample-repo) | Find Bugs | Integration Test Project | Test bounty created via API integration to verify the connection between TRIBEcode and Prometheus platforms. | 5 | CREDITS | N/A | In Progress |
 | [Integration Test Project](https://github.com/test/sample-repo) | Find Bugs | Integration Test Project | Test bounty created via API integration to verify the connection between TRIBEcode and Prometheus platforms. | 5 | CREDITS | N/A | In Progress |
+| [Integration Test Project](https://github.com/test/sample-repo) | Find Bugs | Integration Test Project | Test bounty created via API integration to verify the connection between TRIBEcode and Prometheus platforms. | 5 | CREDITS | N/A | In Progress |
+
 
 
 
